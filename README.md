@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilnandan38" alt="nikhilnandan38" /></a> </p>
 
+- 🎓 Currently pursuing a Master’s in Autonomous Driving at Coburg University of Applied Sciences (Germany)
+
 - 🔭 I’m currently working on **Machine learning pipelines & predictive models Control systems & sensor-based applications Autonomous systems & perception workflows**
 
 - 🌱 I’m currently learning **PyTorch & deep learning architectures Generative AI (diffusion models, synthetic data) Autonomous driving systems & sensor fusion**
