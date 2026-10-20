@@ -37,3 +37,14 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilnandan38&show_icons=true&locale=en&layout=compact" alt="nikhilnandan38" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilnandan38&show_icons=true&locale=en" alt="nikhilnandan38" /></p>
+
+## Using Claude in GitHub Copilot
+
+If your Copilot plan includes Claude models, you can use Claude directly inside Copilot (no separate API key needed):
+
+1. Sign in to GitHub in your editor (VS Code or JetBrains) with your Copilot-enabled account.
+2. Open Copilot Chat.
+3. Use the model picker in chat and select a Claude model.
+4. Start chatting — Copilot routes your requests to Claude.
+
+If Claude is not shown in the model list, your org/admin may not have enabled it yet, or your current Copilot plan may not include Claude.
